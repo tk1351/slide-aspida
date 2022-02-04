@@ -66,7 +66,7 @@ const getArticle = async () => {
 
 そこで、Aspidaの出番!
 
-<img src="static/aspida.png" />
+<img src="public/aspida.png" />
 
 </div>
 
